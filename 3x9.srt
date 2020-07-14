@@ -1,0 +1,1864 @@
+1
+00:00:01,501 --> 00:00:02,544
+Anteriormente, em  Hannibal ...
+
+2
+00:00:02,711 --> 00:00:04,879
+A novidade de Hannibal Lecter passou.
+
+3
+00:00:05,547 --> 00:00:08,091
+Há algo de universal 
+no que este rapaz faz.
+
+4
+00:00:08,299 --> 00:00:09,759
+Este maluco está sincronizado com a lua.
+
+5
+00:00:09,968 --> 00:00:12,429
+Talvez tenhamos três semanas 
+antes que ele faça de novo.
+
+6
+00:00:12,637 --> 00:00:14,014
+Não penso mais nisso.
+
+7
+00:00:14,180 --> 00:00:16,141
+Acho que não vou mais poder lhe ser útil.
+
+8
+00:00:16,558 --> 00:00:18,309
+Quer uma opinião?
+
+9
+00:00:18,518 --> 00:00:19,769
+Quero ver Hannibal.
+
+10
+00:00:33,658 --> 00:00:36,578
+É o mesmo pós-barba ruim 
+que usou no tribunal.
+
+11
+00:00:44,461 --> 00:00:45,795
+Olá, Dr. Lecter.
+
+12
+00:00:47,672 --> 00:00:48,965
+Olá, Will.
+
+13
+00:00:50,467 --> 00:00:51,593
+Recebeu meu bilhete?
+
+14
+00:00:52,177 --> 00:00:53,636
+Recebi, obrigado.
+
+15
+00:00:54,262 --> 00:00:56,222
+Leu antes de destruir?
+
+16
+00:00:56,556 --> 00:00:59,059
+Ou simplesmente jogou 
+na fogueira mais próxima?
+
+17
+00:00:59,225 --> 00:01:00,477
+Eu li.
+
+18
+00:01:01,269 --> 00:01:02,729
+Depois, queimei.
+
+19
+00:01:04,647 --> 00:01:06,232
+E veio de qualquer forma.
+
+20
+00:01:12,405 --> 00:01:14,199
+Fico feliz que tenha vindo.
+
+21
+00:01:14,783 --> 00:01:17,911
+Minhas outras visitas 
+são todas profissionais.
+
+22
+00:01:19,496 --> 00:01:22,415
+Psiquiatras banais e gente inferior.
+
+23
+00:01:24,125 --> 00:01:25,627
+Lambedores de lápis.
+
+24
+00:01:28,797 --> 00:01:30,757
+Quero que me ajude, Dr. Lecter.
+
+25
+00:01:31,299 --> 00:01:32,759
+Foi o que pensei.
+
+26
+00:01:35,386 --> 00:01:37,722
+Não nos chamamos mais pelo primeiro nome?
+
+27
+00:01:38,765 --> 00:01:42,227
+Fico mais à vontade 
+se formos mais impessoais.
+
+28
+00:01:51,569 --> 00:01:53,321
+Sinto cheiro de cães,
+
+29
+00:01:54,114 --> 00:01:57,617
+pinho e óleo, além da loção de barba.
+
+30
+00:01:59,661 --> 00:02:02,205
+Algo que uma criança escolheria, não?
+
+31
+00:02:02,831 --> 00:02:05,083
+Há uma criança na sua vida, Will?
+
+32
+00:02:06,626 --> 00:02:09,379
+Eu lhe dei uma chance, 
+se é que se lembra.
+
+33
+00:02:15,343 --> 00:02:17,679
+Vim por Chicago e Buffalo.
+
+34
+00:02:19,305 --> 00:02:20,140
+Leu sobre isso.
+
+35
+00:02:20,348 --> 00:02:22,934
+Li os jornais. Não posso recortar.
+
+36
+00:02:23,101 --> 00:02:25,311
+Claro, não me dão uma tesoura.
+
+37
+00:02:27,105 --> 00:02:29,232
+Quer saber como ele os escolhe?
+
+38
+00:02:29,858 --> 00:02:31,818
+Achei que teria alguma ideia.
+
+39
+00:02:37,323 --> 00:02:39,701
+Só veio até aqui para olhar pra mim.
+
+40
+00:02:41,452 --> 00:02:44,372
+Veio sentir o cheiro de novo.
+
+41
+00:02:46,082 --> 00:02:47,333
+Por que não se cheira?
+
+42
+00:02:52,714 --> 00:02:54,173
+Esperava mais de você, doutor.
+
+43
+00:02:55,133 --> 00:02:55,967
+Aquela rotina...
+
+44
+00:02:58,428 --> 00:02:59,387
+é coisa do passado.
+
+45
+00:02:59,596 --> 00:03:01,764
+E você é um novo homem.
+
+46
+00:03:03,016 --> 00:03:04,684
+É um bom pai, Will?
+
+47
+00:03:09,939 --> 00:03:11,482
+Deixe-me ver o arquivo.
+
+48
+00:03:12,567 --> 00:03:15,904
+Um hora e podemos discutir, 
+como nos velhos tempos.
+
+49
+00:03:18,448 --> 00:03:19,866
+Obrigado.
+
+50
+00:03:27,999 --> 00:03:30,585
+Os valores familiares podem 
+ter decaído no último século,
+
+51
+00:03:30,752 --> 00:03:33,671
+mas ainda ajudamos a família 
+quando podemos.
+
+52
+00:03:35,924 --> 00:03:37,467
+Você é família, Will.
+
+53
+00:03:53,233 --> 00:03:55,235
+Quantas pessoas você matou?
+
+54
+00:03:59,572 --> 00:04:01,282
+Muito mais do que seu pai.
+
+55
+00:04:06,371 --> 00:04:07,997
+Você vai me matar?
+
+56
+00:04:10,166 --> 00:04:11,751
+Lamento, Abigail.
+
+57
+00:04:16,172 --> 00:04:18,800
+Lamento não poder protegê-la nesta vida.
+
+58
+00:04:25,473 --> 00:04:28,268
+Rituais de sangue envolvem 
+uma morte simbólica
+
+59
+00:04:28,977 --> 00:04:30,186
+e um renascimento.
+
+60
+00:04:31,646 --> 00:04:33,940
+Como todas as coisas no mundo natural,
+
+61
+00:04:34,691 --> 00:04:37,443
+vai se adaptar agora e mudar depois.
+
+62
+00:04:37,777 --> 00:04:39,404
+Evolua ou morra.
+
+63
+00:04:40,947 --> 00:04:43,616
+Mesmo que saiba o estado de quem é hoje,
+
+64
+00:04:43,783 --> 00:04:45,076
+não pode prever quem vai ser amanhã.
+
+65
+00:04:45,785 --> 00:04:48,037
+Você é definida até agora, 
+não além disso.
+
+66
+00:04:52,250 --> 00:04:53,668
+Como teria feito...
+
+67
+00:04:54,544 --> 00:04:55,962
+se fosse fazer?
+
+68
+00:04:57,130 --> 00:04:58,381
+Como teria matado você?
+
+69
+00:04:59,966 --> 00:05:02,719
+Teria cortado sua garganta, 
+como seu pai cortou.
+
+70
+00:05:06,139 --> 00:05:07,557
+Mas você não é meu pai.
+
+71
+00:05:08,641 --> 00:05:10,310
+Você aceitou o seu pai,
+
+72
+00:05:11,811 --> 00:05:14,188
+seria tão difícil me aceitar?
+
+73
+00:05:15,857 --> 00:05:18,067
+Não sei se seria inteligente.
+
+74
+00:05:20,445 --> 00:05:23,239
+Não ficamos mais espertos 
+conforme envelhecemos,
+
+75
+00:05:23,781 --> 00:05:27,785
+mas aprendemos a evitar 
+ou criar um inferno,
+
+76
+00:05:29,078 --> 00:05:31,205
+dependendo do que preferimos.
+
+77
+00:05:35,209 --> 00:05:37,003
+Preciso coletar carne.
+
+78
+00:05:37,670 --> 00:05:40,048
+Não muito, só um pedaço.
+
+79
+00:05:40,465 --> 00:05:42,008
+Algo que possa dispor.
+
+80
+00:05:42,383 --> 00:05:44,635
+Quer dizer, um dedo?
+
+81
+00:05:44,844 --> 00:05:48,681
+Não poderia cortar um dos seus dedos, 
+nem que fosse um.
+
+82
+00:05:48,848 --> 00:05:50,308
+Eles são tão adoráveis.
+
+83
+00:05:52,268 --> 00:05:55,063
+E esperava poder ensiná-la a tocar cravo.
+
+84
+00:06:01,903 --> 00:06:03,029
+Basta por enquanto.
+
+85
+00:06:06,866 --> 00:06:10,036
+Isto vai aproximar 
+a quantidade de pressão.
+
+86
+00:06:10,912 --> 00:06:14,332
+O sangue sai do corpo a galope e atordoa.
+
+87
+00:06:20,505 --> 00:06:22,965
+Está pronta para morrer, Abigail?
+
+88
+00:06:28,513 --> 00:06:29,722
+Posso apertar o botão?
+
+89
+00:07:08,928 --> 00:07:10,763
+Abigail Hobbs está morta.
+
+90
+00:07:13,307 --> 00:07:14,684
+Vida longa a Abigail Hobbs.
+
+91
+00:07:40,585 --> 00:07:43,045
+MANICÔMIO PENITENCIÁRIO 
+ESTADO DE BALTIMORE
+
+92
+00:07:44,088 --> 00:07:46,257
+É bom vê-lo tão bem, Will.
+
+93
+00:07:48,009 --> 00:07:49,927
+Mas queria que não estivesse aqui.
+
+94
+00:07:50,595 --> 00:07:52,221
+Queria e esperava.
+
+95
+00:07:54,974 --> 00:07:57,185
+Qual foi a sensação de vê-lo de novo?
+
+96
+00:08:01,439 --> 00:08:02,648
+É como...
+
+97
+00:08:04,942 --> 00:08:08,154
+se Hannibal olhasse 
+para dentro da minha cabeça.
+
+98
+00:08:10,698 --> 00:08:13,576
+Parecia uma mosca sobrevoando.
+
+99
+00:08:14,994 --> 00:08:19,624
+Tive a sensação absurda 
+de que ele saiu comigo.
+
+100
+00:08:19,999 --> 00:08:23,878
+Tive que parar ao sair, olhar ao redor, 
+pra ter a certeza de que estava sozinho.
+
+101
+00:08:24,712 --> 00:08:26,589
+Sei qual é a sensação.
+
+102
+00:08:29,258 --> 00:08:32,011
+Pelo menos, Jack Crawford está feliz.
+
+103
+00:08:33,304 --> 00:08:35,890
+Ele me mostrou fotos das famílias.
+
+104
+00:08:37,600 --> 00:08:39,977
+Olhei para Molly e Walter 
+a não pude dizer não.
+
+105
+00:08:40,311 --> 00:08:42,063
+E Jack contava com isso.
+
+106
+00:08:55,993 --> 00:08:57,286
+Ainda está com Margot?
+
+107
+00:09:00,373 --> 00:09:01,832
+Temos um bebê.
+
+108
+00:09:02,708 --> 00:09:04,126
+Um bebê Verger.
+
+109
+00:09:05,253 --> 00:09:06,295
+Um filho.
+
+110
+00:09:07,588 --> 00:09:08,631
+Que bom para Margot.
+
+111
+00:09:09,006 --> 00:09:10,508
+Que bom pra mim. Eu engravidei.
+
+112
+00:09:10,675 --> 00:09:12,176
+Ele é meu filho.
+
+113
+00:09:13,636 --> 00:09:15,638
+É o herdeiro dos Verger.
+
+114
+00:09:18,391 --> 00:09:22,061
+Então, o que está fazendo aqui?
+
+115
+00:09:22,895 --> 00:09:25,940
+Só há cinco portas 
+entre Hannibal e o exterior.
+
+116
+00:09:27,233 --> 00:09:28,943
+E eu tenho as chaves de todas elas.
+
+117
+00:09:30,444 --> 00:09:31,946
+Hannibal nunca foi...
+
+118
+00:09:33,406 --> 00:09:35,408
+bom com limites.
+
+119
+00:09:36,409 --> 00:09:39,954
+"Ele, que janta com o demônio 
+precisa de uma colher longa."
+
+120
+00:09:46,127 --> 00:09:48,129
+Não vou deixá-lo entrar, Alana.
+
+121
+00:09:51,465 --> 00:09:53,009
+Não se preocupe comigo.
+
+122
+00:09:53,384 --> 00:09:55,595
+Não estou preocupada só com você.
+
+123
+00:09:56,721 --> 00:09:58,556
+Da última vez, não terminou com você.
+
+124
+00:10:16,866 --> 00:10:18,909
+É um rapaz muito tímido, Will.
+
+125
+00:10:19,702 --> 00:10:20,828
+Eu adoraria conhecê-lo.
+
+126
+00:10:21,621 --> 00:10:23,372
+Tenho certeza.
+
+127
+00:10:23,581 --> 00:10:26,292
+Considerou a possibilidade 
+de ele ser desfigurado?
+
+128
+00:10:26,459 --> 00:10:28,794
+Ou de ele acreditar que é desfigurado?
+
+129
+00:10:29,962 --> 00:10:31,172
+Isso é interessante.
+
+130
+00:10:32,381 --> 00:10:33,841
+Não é interessante.
+
+131
+00:10:37,053 --> 00:10:38,596
+Já pensou nisso.
+
+132
+00:10:38,763 --> 00:10:41,307
+Ele quebrou todos os espelhos das casas,
+
+133
+00:10:41,474 --> 00:10:44,018
+não só o suficiente 
+para pegar o que queria.
+
+134
+00:10:45,186 --> 00:10:47,897
+Os cacos são calculados 
+para ele poder se ver
+
+135
+00:10:48,064 --> 00:10:50,107
+nos olhos da Sra. Jacobi.
+
+136
+00:10:52,068 --> 00:10:54,278
+Pode se ver nos olhos deles, Will?
+
+137
+00:10:55,988 --> 00:10:57,615
+Matando todos eles?
+
+138
+00:11:07,833 --> 00:11:10,294
+O primeiro pequeno elo com o assassino
+
+139
+00:11:10,920 --> 00:11:13,339
+coça e pica como uma sanguessuga.
+
+140
+00:11:23,516 --> 00:11:24,850
+Como você, Will,
+
+141
+00:11:25,935 --> 00:11:29,063
+ele precisa de uma família 
+para fugir do que há dentro dele.
+
+142
+00:11:40,324 --> 00:11:43,369
+Sabe muito sobre como 
+essas famílias morreram.
+
+143
+00:11:45,788 --> 00:11:48,374
+Como viviam é como ele as escolhe.
+
+144
+00:11:49,500 --> 00:11:50,668
+Como ele as escolhe?
+
+145
+00:11:53,295 --> 00:11:54,630
+Como escolheu a sua?
+
+146
+00:11:56,674 --> 00:11:59,927
+Mulher e criança, prontos 
+para servir as suas necessidades.
+
+147
+00:12:00,761 --> 00:12:02,555
+Um enteado ou enteada.
+
+148
+00:12:05,266 --> 00:12:08,394
+Um enteado o absolve 
+de qualquer culpa biológica.
+
+149
+00:12:10,980 --> 00:12:12,857
+É melhor do que procriar.
+
+150
+00:12:13,899 --> 00:12:17,069
+Não vai passar os traços 
+terríveis que mais teme.
+
+151
+00:12:24,994 --> 00:12:27,621
+Por que não há descrição dos locais?
+
+152
+00:12:27,788 --> 00:12:28,747
+Vejo planos dos andares...
+
+153
+00:12:29,999 --> 00:12:33,169
+diagramas dos quartos 
+onde ocorreram as mortes.
+
+154
+00:12:33,502 --> 00:12:35,004
+Como era o terreno?
+
+155
+00:12:37,423 --> 00:12:39,717
+Grande, cercado,
+
+156
+00:12:40,968 --> 00:12:42,511
+com árvores. Por quê?
+
+157
+00:12:43,220 --> 00:12:46,599
+Se o peregrino sente 
+uma relação especial com a lua,
+
+158
+00:12:46,807 --> 00:12:50,978
+pode querer sair e olhar pra ela 
+antes de se limpar.
+
+159
+00:12:53,105 --> 00:12:54,732
+Se estivesse nu, digamos,
+
+160
+00:12:54,899 --> 00:12:58,235
+seria melhor ter privacidade para isso.
+
+161
+00:13:01,530 --> 00:13:04,033
+Ele deve mostrar consideração 
+pelos vizinhos.
+
+162
+00:13:07,995 --> 00:13:10,539
+Já viu sangue ao luar, Will?
+
+163
+00:13:14,251 --> 00:13:16,045
+Parece preto.
+
+164
+00:13:46,200 --> 00:13:47,701
+MANICÔMIO PENITENCIÁRIO 
+ESTADO DE BALTIMORE
+
+165
+00:14:08,889 --> 00:14:10,641
+Veio apontar o dedo?
+
+166
+00:14:12,560 --> 00:14:14,520
+Adoro apontar o dedo.
+
+167
+00:14:14,937 --> 00:14:16,105
+É verdade.
+
+168
+00:14:16,730 --> 00:14:18,482
+Como está Margot?
+
+169
+00:14:21,902 --> 00:14:24,446
+Suas engrenagens estão girando, Hannibal.
+
+170
+00:14:26,156 --> 00:14:27,908
+Posso ouvir o tilintar.
+
+171
+00:14:33,706 --> 00:14:36,292
+Não sei o que planeja com Will Graham,
+
+172
+00:14:37,751 --> 00:14:39,503
+mas está planejando algo.
+
+173
+00:14:40,880 --> 00:14:42,464
+Por que não estaria?
+
+174
+00:14:43,340 --> 00:14:45,301
+Você já serrou a tampa,
+
+175
+00:14:46,302 --> 00:14:48,304
+não consegue resistir a abrir.
+
+176
+00:14:50,472 --> 00:14:52,057
+Will veio a mim.
+
+177
+00:14:53,601 --> 00:14:54,768
+Veio mesmo.
+
+178
+00:14:54,935 --> 00:14:56,812
+Eu o aconselhei a não fazer isso.
+
+179
+00:14:58,188 --> 00:14:59,565
+Tenho certeza.
+
+180
+00:15:01,775 --> 00:15:05,029
+Está sugerindo que não quero 
+o melhor para Will?
+
+181
+00:15:08,949 --> 00:15:11,035
+Acho que isso é fato.
+
+182
+00:15:13,704 --> 00:15:16,832
+Fez Will vestir a roupa 
+da dignidade moral.
+
+183
+00:15:19,501 --> 00:15:20,836
+Nada é culpa dele.
+
+184
+00:15:25,925 --> 00:15:27,468
+Eu sou cortês...
+
+185
+00:15:28,844 --> 00:15:31,472
+e você tem sido receptivo à cortesia.
+
+186
+00:15:33,182 --> 00:15:35,809
+Mas as delicadezas são condicionais
+
+187
+00:15:37,353 --> 00:15:40,064
+e as condições não são negociáveis.
+
+188
+00:15:46,779 --> 00:15:48,572
+Eu devo me comportar.
+
+189
+00:15:51,533 --> 00:15:53,494
+Sei o que teme.
+
+190
+00:15:55,913 --> 00:15:58,749
+Não é a dor ou a solidão.
+
+191
+00:16:01,293 --> 00:16:02,878
+É a indignidade.
+
+192
+00:16:04,672 --> 00:16:07,132
+Você é meio como um gato nesse sentido.
+
+193
+00:16:10,719 --> 00:16:12,304
+Eu tiro seus livros.
+
+194
+00:16:14,223 --> 00:16:15,891
+Tiro seus desenhos.
+
+195
+00:16:17,476 --> 00:16:19,144
+Tiro sua privada.
+
+196
+00:16:27,611 --> 00:16:29,738
+Você só vai ter indignidade...
+
+197
+00:16:33,283 --> 00:16:35,202
+e a companhia dos mortos.
+
+198
+00:16:54,430 --> 00:16:57,725
+Temos uma afinidade básica 
+com a nossa família.
+
+199
+00:16:58,726 --> 00:17:01,645
+Podemos nos detectar só pelo cheiro.
+
+200
+00:17:03,814 --> 00:17:05,441
+Reconhece isto?
+
+201
+00:17:07,401 --> 00:17:08,986
+Meu pai fez...
+
+202
+00:17:10,195 --> 00:17:11,030
+de osso.
+
+203
+00:17:13,240 --> 00:17:17,161
+Seu pai nunca quis nada 
+além da sua felicidade.
+
+204
+00:17:18,996 --> 00:17:20,831
+Meu pai cortou a minha garganta.
+
+205
+00:17:20,998 --> 00:17:22,207
+Por amor.
+
+206
+00:17:24,084 --> 00:17:25,878
+Aquilo não era amor.
+
+207
+00:17:27,796 --> 00:17:29,757
+Cada família ama de forma diferente.
+
+208
+00:17:29,923 --> 00:17:31,633
+Cada amor é único.
+
+209
+00:17:34,470 --> 00:17:38,474
+Nega seu amor ao seu pai 
+pelo que pode significar pra você.
+
+210
+00:17:39,808 --> 00:17:42,102
+Sente o cheiro dele aqui, Abigail?
+
+211
+00:17:59,369 --> 00:18:02,873
+Isso é o seu pai. 
+É o que resta dele agora.
+
+212
+00:18:03,332 --> 00:18:05,501
+A morte o reduziu a isso.
+
+213
+00:18:11,131 --> 00:18:13,675
+Tudo o que sobrou é a sinceridade.
+
+214
+00:18:18,430 --> 00:18:20,849
+Pode ser sincera comigo agora?
+
+215
+00:18:24,853 --> 00:18:27,773
+Ele foi tão bom comigo quanto sabia ser.
+
+216
+00:18:30,317 --> 00:18:33,112
+Caçar com ele foi o melhor 
+momento que eu tive.
+
+217
+00:18:34,863 --> 00:18:37,199
+Uma bela definição de amor.
+
+218
+00:18:40,160 --> 00:18:43,455
+Precisa se permitir 
+amá-lo como ele a amava.
+
+219
+00:19:09,189 --> 00:19:12,985
+O que precisa do seu pai 
+está aqui, na sua cabeça,
+
+220
+00:19:14,194 --> 00:19:16,238
+e sujeito ao seu julgamento, não ao dele.
+
+221
+00:19:22,202 --> 00:19:24,746
+Nunca sinta vergonha de quem é, Abigail.
+
+222
+00:22:19,421 --> 00:22:21,465
+Achei atrás da garagem dos Jacobi.
+
+223
+00:22:21,882 --> 00:22:25,260
+Flor entre as patas. embrulhado 
+no pano de prato, estrangulado.
+
+224
+00:22:26,053 --> 00:22:27,012
+Filho da mãe!
+
+225
+00:22:27,679 --> 00:22:31,558
+Parece que está mais chateado 
+pelo gato do que pelas crianças.
+
+226
+00:22:31,975 --> 00:22:35,520
+Gosto muito de gatos 
+e nem tanto de crianças.
+
+227
+00:22:35,729 --> 00:22:38,523
+-E quanto ao cão dos Leeds? 
+-Teve o abdome perfurado.
+
+228
+00:22:38,732 --> 00:22:40,525
+O veterinário cuidou, deve ficar bem.
+
+229
+00:22:40,692 --> 00:22:42,152
+Acharam que tinha levado 
+um tiro, mas não tinha bala.
+
+230
+00:22:42,360 --> 00:22:45,197
+Acham que foi perfurado 
+com um furador de gelo.
+
+231
+00:22:45,363 --> 00:22:46,573
+Filho da mãe!
+
+232
+00:22:46,740 --> 00:22:50,368
+Ele fere os bichos das vítimas 
+antes de matar a família?
+
+233
+00:22:50,577 --> 00:22:52,829
+Ele elimina o sistema de aviso.
+
+234
+00:22:53,789 --> 00:22:57,167
+Estuda o lugar, mata o bicho e a família.
+
+235
+00:22:58,210 --> 00:23:01,713
+Devíamos verificar 
+com veterinários e abrigos,
+
+236
+00:23:01,922 --> 00:23:04,841
+pedindo um relatório imediato 
+sobre mutilação de animais.
+
+237
+00:23:05,008 --> 00:23:07,385
+Chicago e Buffalo são 
+separados por quatro estados.
+
+238
+00:23:07,552 --> 00:23:09,638
+Nada que ligue as famílias 
+foi encontrado.
+
+239
+00:23:09,971 --> 00:23:11,598
+O que elas têm em comum?
+
+240
+00:23:12,390 --> 00:23:14,184
+As duas eram felizes.
+
+241
+00:24:24,546 --> 00:24:26,381
+Eu me sentei aqui
+
+242
+00:24:26,840 --> 00:24:28,425
+e os observei.
+
+243
+00:24:36,183 --> 00:24:39,311
+Está limpando os EUA ou isso é prova?
+
+244
+00:24:41,438 --> 00:24:42,564
+Está invadindo, Freddie.
+
+245
+00:24:42,898 --> 00:24:45,525
+Invadi antes que o sangue secasse.
+
+246
+00:24:45,859 --> 00:24:48,195
+-Quando chamaram você. 
+-Não vou falar com você.
+
+247
+00:24:48,361 --> 00:24:51,072
+Somos co-conspiradores, Will. 
+Morri por você e a sua causa.
+
+248
+00:24:51,239 --> 00:24:52,741
+Não morreu o suficiente.
+
+249
+00:24:52,908 --> 00:24:54,993
+Veio ao meu quarto de hospital 
+enquanto eu dormia,
+
+250
+00:24:55,577 --> 00:24:59,164
+puxou o lençol e tirou uma foto 
+da minha bolsa de colostomia.
+
+251
+00:24:59,372 --> 00:25:03,084
+Cobri seu pacote 
+com uma caixa preta grande.
+
+252
+00:25:03,251 --> 00:25:04,502
+De nada.
+
+253
+00:25:04,794 --> 00:25:06,254
+Você nos chamou de maridos assassinos.
+
+254
+00:25:06,421 --> 00:25:08,131
+Vocês fugiram juntos para a Europa.
+
+255
+00:25:08,924 --> 00:25:11,468
+Como o Fada do Dente 
+se compara com Hannibal Lecter?
+
+256
+00:25:11,635 --> 00:25:14,179
+Não vejo nada assim desde 
+o massacre na Fazenda Muskrat.
+
+257
+00:25:15,096 --> 00:25:16,473
+O que é engraçado sobre esse massacre,
+
+258
+00:25:16,640 --> 00:25:19,559
+é que a Dra. Bloom 
+não só sobreviveu, mas enriqueceu.
+
+259
+00:25:19,726 --> 00:25:21,645
+Lecter vive em um laboratório, 
+sob os cuidados dela.
+
+260
+00:25:22,062 --> 00:25:24,356
+Que tipo de acordo acha que eles têm?
+
+261
+00:25:24,522 --> 00:25:26,233
+Um acordo complicado.
+
+262
+00:25:27,943 --> 00:25:30,654
+Não pode ser mais complicado 
+que sua relação com Hannibal.
+
+263
+00:25:31,238 --> 00:25:34,407
+Fez uma visita a ele? 
+Antes que minta, sei que fez.
+
+264
+00:25:34,574 --> 00:25:35,408
+Tchau, Freddie.
+
+265
+00:25:36,117 --> 00:25:38,787
+"Caçadores federais, 
+na busca do Fada do Dente
+
+266
+00:25:38,954 --> 00:25:42,123
+se voltam para o assassino 
+mais selvagem por ajuda.
+
+267
+00:25:42,290 --> 00:25:44,209
+'Precisamos de alguém para pegar alguém',
+
+268
+00:25:44,376 --> 00:25:47,128
+disse uma fonte federal a esta repórter."
+
+269
+00:25:47,921 --> 00:25:50,006
+"Precisam de alguém para pegar alguém"?
+
+270
+00:25:50,173 --> 00:25:52,259
+Está se referindo 
+a Hannibal Lecter ou a mim?
+
+271
+00:25:53,134 --> 00:25:55,262
+Vou deixar meus leitores decidirem.
+
+272
+00:25:56,179 --> 00:25:57,722
+Se fosse esperto, me usaria.
+
+273
+00:25:58,098 --> 00:26:02,310
+Todos os psicopatas são narcisistas 
+adoram ler sobre si.
+
+274
+00:26:03,311 --> 00:26:07,899
+Louco é consultado sobre crimes 
+por agente que tentou matar
+
+275
+00:26:37,512 --> 00:26:40,348
+MATERIAIS SENSÍVEIS 
+INFRAVERMELHOS - NÃO FUMAR
+
+276
+00:26:52,235 --> 00:26:53,445
+Entre!
+
+277
+00:27:10,420 --> 00:27:13,006
+Sou Francis Dolarhyde.
+
+278
+00:27:13,381 --> 00:27:17,635
+O mesmo Sr. D. que fica possesso 
+quando as requisições estão erradas?
+
+279
+00:27:18,345 --> 00:27:19,763
+O próprio.
+
+280
+00:27:20,680 --> 00:27:22,057
+Ponha as costas contra a porta.
+
+281
+00:27:22,223 --> 00:27:25,018
+Siga em frente três passos, 
+até sentir o tijolo com os pés.
+
+282
+00:27:25,185 --> 00:27:27,479
+Vai ter um banco a sua direita.
+
+283
+00:27:27,937 --> 00:27:29,731
+Vou por isto no buraco negro.
+
+284
+00:27:49,417 --> 00:27:50,877
+Eu ia...
+
+285
+00:27:55,215 --> 00:27:58,259
+Acha que posso comer uma ameixa?
+
+286
+00:27:58,426 --> 00:27:59,302
+Claro.
+
+287
+00:28:00,470 --> 00:28:01,763
+Elas estão boas.
+
+288
+00:28:20,407 --> 00:28:21,658
+Preciso lhe pedir um favor.
+
+289
+00:28:21,866 --> 00:28:23,284
+Além da ameixa?
+
+290
+00:28:23,827 --> 00:28:25,912
+Além da ameixa.
+
+291
+00:28:28,790 --> 00:28:31,084
+Preciso de um...
+
+292
+00:28:32,544 --> 00:28:34,796
+filme infravermelho.
+
+293
+00:28:37,132 --> 00:28:38,550
+Quente,
+
+294
+00:28:38,758 --> 00:28:40,719
+sensível ao movimento...
+
+295
+00:28:42,721 --> 00:28:44,347
+mil nanômetros.
+
+296
+00:28:44,514 --> 00:28:45,849
+Melhor filmar em digital.
+
+297
+00:28:46,057 --> 00:28:48,143
+Não sou fã desse formato.
+
+298
+00:28:48,727 --> 00:28:50,186
+Ninguém aqui é.
+
+299
+00:28:51,479 --> 00:28:52,856
+Vou filmar a...
+
+300
+00:28:53,857 --> 00:28:55,024
+talvez...
+
+301
+00:28:57,318 --> 00:28:58,236
+2,5 m.
+
+302
+00:28:59,112 --> 00:29:03,658
+Quero fotografar animais noturnos no zoo.
+
+303
+00:29:04,743 --> 00:29:08,204
+Quanto mais sensível o filme, 
+mais difícil de lidar com ele.
+
+304
+00:29:09,080 --> 00:29:11,583
+Precisa resfriar, 
+gelo seco e tudo o mais.
+
+305
+00:29:12,208 --> 00:29:14,377
+Planeja processar você mesmo?
+
+306
+00:29:15,003 --> 00:29:16,463
+Precisa estar na escuridão total.
+
+307
+00:29:16,629 --> 00:29:17,881
+Não pode nem usar óculos infravermelhos.
+
+308
+00:29:18,047 --> 00:29:20,508
+Eles vão soltar radiação e velar o filme.
+
+309
+00:29:22,135 --> 00:29:24,846
+Posso fazer pra você, se quiser.
+
+310
+00:29:25,054 --> 00:29:26,473
+Privacidade garantida.
+
+311
+00:29:38,902 --> 00:29:40,361
+Obrigado pela oferta.
+
+312
+00:30:17,398 --> 00:30:19,400
+-Srta. McClane? 
+-Sr. D?
+
+313
+00:30:23,112 --> 00:30:25,073
+Posso lhe dar uma carona até em casa?
+
+314
+00:30:25,824 --> 00:30:27,951
+Obrigada, pego o ônibus o tempo todo.
+
+315
+00:30:28,117 --> 00:30:30,745
+-Não precisa se preocupar. 
+-Não estou preocupado.
+
+316
+00:30:31,830 --> 00:30:33,456
+Venha comigo.
+
+317
+00:30:35,291 --> 00:30:37,585
+Será um prazer.
+
+318
+00:31:21,754 --> 00:31:24,340
+Entre, vou lhe preparar uma bebida.
+
+319
+00:32:17,226 --> 00:32:19,938
+Há quanto tempo trabalha na Gateway?
+
+320
+00:32:20,980 --> 00:32:22,190
+Três meses.
+
+321
+00:32:22,732 --> 00:32:26,277
+Treinei cegos por dez anos 
+depois que me formei.
+
+322
+00:32:26,778 --> 00:32:28,821
+É meu primeiro trabalho fora.
+
+323
+00:32:29,238 --> 00:32:33,326
+-Fora do quê? 
+-De dentro.
+
+324
+00:32:35,411 --> 00:32:38,247
+Treinava pessoas para viverem 
+no mundo dos que veem.
+
+325
+00:32:39,165 --> 00:32:41,000
+E eu não vivia nele.
+
+326
+00:32:42,460 --> 00:32:45,505
+Pensei em sair, curtir um pouco.
+
+327
+00:33:04,649 --> 00:33:08,277
+Queria fazer fono 
+para falar e ouvir crianças deficientes.
+
+328
+00:33:08,444 --> 00:33:11,614
+Espero voltar isso um dia desses.
+
+329
+00:33:13,700 --> 00:33:15,410
+Você cozinha?
+
+330
+00:33:23,668 --> 00:33:25,128
+Faz café?
+
+331
+00:33:31,509 --> 00:33:33,761
+Vamos falar sobre alguma coisa um minuto
+
+332
+00:33:33,928 --> 00:33:35,513
+e tirar isso do caminho.
+
+333
+00:33:36,764 --> 00:33:39,809
+Não disse nada desde que falei em fono.
+
+334
+00:33:40,893 --> 00:33:43,938
+Entendo você porque fala muito bem
+
+335
+00:33:44,647 --> 00:33:45,940
+e porque eu ouço.
+
+336
+00:33:46,649 --> 00:33:48,276
+As pessoas não prestam atenção.
+
+337
+00:33:48,609 --> 00:33:51,070
+Se não quer falar, tudo bem,
+
+338
+00:33:51,988 --> 00:33:53,740
+mas espero que fale porque você pode
+
+339
+00:33:53,906 --> 00:33:56,451
+e porque estou interessada 
+no que tem a dizer.
+
+340
+00:34:00,204 --> 00:34:01,497
+Isso é bom.
+
+341
+00:34:05,501 --> 00:34:07,712
+Eu gosto do seguinte, Francis.
+
+342
+00:34:08,755 --> 00:34:10,965
+Não senti que tem pena.
+
+343
+00:34:12,091 --> 00:34:13,551
+Gosto disso.
+
+344
+00:34:13,926 --> 00:34:17,138
+Pena me parece uma cusparada na cara.
+
+345
+00:34:17,305 --> 00:34:19,348
+E não lido bem com a autopiedade.
+
+346
+00:34:21,017 --> 00:34:23,019
+Posso tocar no seu rosto?
+
+347
+00:34:24,979 --> 00:34:27,690
+Só quero saber se está 
+sorrindo ou se está bravo.
+
+348
+00:34:28,900 --> 00:34:31,611
+Quero saber se devo me calar ou não.
+
+349
+00:34:41,621 --> 00:34:42,955
+Acredite...
+
+350
+00:34:45,500 --> 00:34:47,168
+estou sorrindo.
+
+351
+00:35:02,809 --> 00:35:04,227
+Olá, figurão.
+
+352
+00:35:05,311 --> 00:35:06,896
+Está fazendo o bem?
+
+353
+00:35:07,730 --> 00:35:08,981
+Nada que pudesse notar.
+
+354
+00:35:10,691 --> 00:35:12,944
+-Estou solitário. 
+-Eu também.
+
+355
+00:35:14,237 --> 00:35:15,446
+Estou com Randy.
+
+356
+00:35:16,405 --> 00:35:17,573
+Quem?
+
+357
+00:35:18,866 --> 00:35:20,535
+Randy é nosso novo cão.
+
+358
+00:35:20,993 --> 00:35:22,203
+Caramba.
+
+359
+00:35:23,121 --> 00:35:25,498
+Randy tem bolas enormes.
+
+360
+00:35:26,541 --> 00:35:28,209
+Não importam as bolas.
+
+361
+00:35:29,043 --> 00:35:30,837
+Elas quase arrastam no chão.
+
+362
+00:35:31,045 --> 00:35:33,089
+Ele precisa recolher quando corre.
+
+363
+00:35:34,841 --> 00:35:36,968
+Consegue retrair as suas?
+
+364
+00:35:38,302 --> 00:35:41,430
+Retraí uma vez, quando era criança.
+
+365
+00:35:43,432 --> 00:35:44,642
+Precisava pular uma cerca 
+de arame farpado
+
+366
+00:35:44,809 --> 00:35:46,769
+enquanto carregava uma melancia roubada.
+
+367
+00:35:47,854 --> 00:35:50,148
+Mente criminosa mesmo nessa idade.
+
+368
+00:35:56,863 --> 00:35:58,948
+Não tenho uma mente criminosa.
+
+369
+00:36:01,284 --> 00:36:02,702
+Claro que não.
+
+370
+00:36:06,956 --> 00:36:09,083
+Nós temos um novo cão novo.
+
+371
+00:36:09,709 --> 00:36:11,460
+Mais novo do que o Randy?
+
+372
+00:36:11,878 --> 00:36:13,171
+É, pertencia a uma das famílias.
+
+373
+00:36:13,588 --> 00:36:16,799
+Não havia ninguém para ficar com ela
+
+374
+00:36:16,966 --> 00:36:18,092
+e eu fiquei.
+
+375
+00:36:18,259 --> 00:36:19,510
+Você é muito doce.
+
+376
+00:36:20,511 --> 00:36:23,764
+Eu o amo e sinto a sua falta.
+
+377
+00:36:24,932 --> 00:36:26,809
+Você está fazendo a coisa certa.
+
+378
+00:36:27,852 --> 00:36:29,854
+Sei que está sendo difícil pra você.
+
+379
+00:36:30,688 --> 00:36:31,898
+Estou aqui
+
+380
+00:36:33,065 --> 00:36:35,610
+e estarei aqui quando voltar pra casa.
+
+381
+00:36:36,986 --> 00:36:37,820
+Boa noite, Molly.
+
+382
+00:36:38,029 --> 00:36:39,697
+Boa noite, meu doce.
+
+383
+00:37:28,996 --> 00:37:32,124
+MANICÔMIO PENITENCIÁRIO 
+ESTADO DE BALTIMORE
+
+384
+00:37:48,182 --> 00:37:49,892
+Enquanto eu vivo e respiro,
+
+385
+00:37:50,059 --> 00:37:51,936
+achei não ia mais vê-lo, Jack.
+
+386
+00:37:53,354 --> 00:37:54,605
+Dr. Lecter.
+
+387
+00:37:58,067 --> 00:37:59,402
+Está usando roupas mais modernas.
+
+388
+00:37:59,986 --> 00:38:03,030
+Vem praticando algum esporte 
+com uma nova parceira?
+
+389
+00:38:03,197 --> 00:38:04,407
+Talvez tênis?
+
+390
+00:38:04,573 --> 00:38:06,450
+Voltou a praticar seu esporte,
+
+391
+00:38:06,867 --> 00:38:08,244
+com um velho parceiro.
+
+392
+00:38:09,412 --> 00:38:11,205
+Escrevi um bilhete para Will,
+
+393
+00:38:11,622 --> 00:38:12,832
+avisando que você apareceria.
+
+394
+00:38:12,999 --> 00:38:14,125
+Li o seu bilhete.
+
+395
+00:38:14,750 --> 00:38:16,711
+Antes de o meu escritório enviar pra ele.
+
+396
+00:38:20,131 --> 00:38:22,008
+Para aguçar o apetite dele ou o seu?
+
+397
+00:38:23,634 --> 00:38:27,388
+Você o colocou de volta ao jogo 
+e o está deixando cozinhar.
+
+398
+00:38:28,139 --> 00:38:31,183
+Estamos nesse cozido juntos, doutor.
+
+399
+00:38:32,310 --> 00:38:35,396
+Teria sido mais sincero se tivesse comido 
+o cérebro dele direto do crânio.
+
+400
+00:38:35,563 --> 00:38:37,523
+E você é nada além de sincero.
+
+401
+00:38:44,822 --> 00:38:47,241
+Esse rapaz tímido já viu Will.
+
+402
+00:38:47,867 --> 00:38:49,243
+Ele já sabe o nome dele.
+
+403
+00:38:50,995 --> 00:38:52,830
+Está preparando o terreno, Jack?
+
+404
+00:38:53,873 --> 00:38:55,458
+Precisa de um para pegar outro.
+
+405
+00:38:56,000 --> 00:38:58,294
+Precisa de dois para pegar um.
+
+406
+00:39:00,087 --> 00:39:03,924
+Will nunca foi mais eficaz 
+do que com você influenciando.
+
+407
+00:39:04,091 --> 00:39:05,384
+Concordo.
+
+408
+00:39:05,926 --> 00:39:08,679
+Mas não pense que pode 
+me persuadir a entrar no jogo,
+
+409
+00:39:09,055 --> 00:39:11,223
+apelando a minha vaidade intelectual.
+
+410
+00:39:11,390 --> 00:39:13,517
+Acho que não vou persuadi-lo, doutor.
+
+411
+00:39:13,893 --> 00:39:16,479
+Você joga ou não.
+
+412
+00:39:28,491 --> 00:39:30,701
+Bella costumava dizer 
+que seu rosto era só cicatrizes
+
+413
+00:39:30,868 --> 00:39:32,578
+se você soubesse olhar.
+
+414
+00:39:34,955 --> 00:39:37,291
+Sempre há espaço para mais algumas.
+
+415
+00:39:40,336 --> 00:39:42,963
+Quanto espaço o Will tem, Jack?
+
+416
+00:40:13,202 --> 00:40:14,412
+Eles sabem.
+
+417
+00:40:23,754 --> 00:40:25,005
+Eles estão vindo.
+
+418
+00:40:29,510 --> 00:40:30,678
+Nós vamos embora?
+
+419
+00:40:33,764 --> 00:40:35,349
+Vamos esperar o Will.
+
+420
+00:40:36,559 --> 00:40:38,352
+É importante que ele a veja.
+
+421
+00:40:39,145 --> 00:40:40,938
+Quero que vocês dois fiquem juntos.
+
+422
+00:40:41,105 --> 00:40:42,523
+Eles vão nos pegar se ficarmos.
+
+423
+00:40:42,731 --> 00:40:45,359
+É uma questão de honra 
+cuidar de você, Abigail.
+
+424
+00:40:45,901 --> 00:40:47,653
+Você também precisa cuidar de mim.
+
+425
+00:40:48,904 --> 00:40:52,366
+Precisamos nos proteger 
+nas novas vidas que criamos.
+
+426
+00:40:55,202 --> 00:40:56,871
+Quero que suba e espere.
+
+427
+00:40:58,998 --> 00:41:00,166
+O quê?
+
+428
+00:41:01,584 --> 00:41:04,086
+Caçar com seu pai foi 
+o melhor momento que teve.
+
+429
+00:41:05,754 --> 00:41:07,798
+Agora, vai caçar comigo.
+
+430
+00:41:25,941 --> 00:41:27,985
+-É o seu advogado. 
+-Obrigado.
+
+431
+00:41:47,046 --> 00:41:48,214
+Alô.
+
+432
+00:41:48,380 --> 00:41:50,382
+Olá, Dr. Lecter.
+
+433
+00:41:51,175 --> 00:41:55,054
+Quero dizer que estou muito feliz
+
+434
+00:41:55,221 --> 00:41:57,932
+por ter se interessado por mim.
+
+435
+00:41:58,098 --> 00:42:01,435
+Não acredito que contaria 
+a eles quem sou,
+
+436
+00:42:02,019 --> 00:42:03,437
+mesmo se soubesse.
+
+437
+00:42:03,979 --> 00:42:08,108
+O que importa é 
+no que estou me transformando.
+
+438
+00:42:08,275 --> 00:42:12,571
+Sabia que só você entenderia isso.
+
+439
+00:42:13,614 --> 00:42:14,907
+Conte.
+
+440
+00:42:15,991 --> 00:42:17,618
+No que está se transformando?
+
+441
+00:42:18,577 --> 00:42:23,123
+No Grande Dragão Vermelho.
